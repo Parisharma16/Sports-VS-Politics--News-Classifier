@@ -1,4 +1,4 @@
-# Sports-VS-Politics--News-Classifier
+# Sports-VS-Politics--Document-Classifier
 This project builds a machine learning classifier that reads a news article and predicts whether it belongs to the **Sports** category or the **Politics** category.
 
 ## Dataset
