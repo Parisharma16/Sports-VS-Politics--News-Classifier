@@ -1,5 +1,5 @@
 # Sports-VS-Politics--Document-Classifier
-This project builds a machine learning classifier that reads a news article and predicts whether it belongs to the **Sports** category or the **Politics** category.
+This project builds a machine learning classifier that reads an article and predicts whether it belongs to the **Sports** category or the **Politics** category.
 
 ## Dataset
 BBC News Dataset from Kaggle: [Link](https://www.kaggle.com/datasets/yufengdev/bbc-fulltext-and-category)
